@@ -1,0 +1,69 @@
+C:\Users\user\source\repos\AT3\AT3\bin\Debug\AT3.exe.config
+C:\Users\user\source\repos\AT3\AT3\bin\Debug\AT3.exe
+C:\Users\user\source\repos\AT3\AT3\bin\Debug\AT3.pdb
+C:\Users\user\source\repos\AT3\AT3\obj\Debug\AT3.csprojAssemblyReference.cache
+C:\Users\user\source\repos\AT3\AT3\obj\Debug\AT3.ClientForm.resources
+C:\Users\user\source\repos\AT3\AT3\obj\Debug\AT3.Properties.Resources.resources
+C:\Users\user\source\repos\AT3\AT3\obj\Debug\AT3.ServerForm.resources
+C:\Users\user\source\repos\AT3\AT3\obj\Debug\AT3.csproj.GenerateResource.cache
+C:\Users\user\source\repos\AT3\AT3\obj\Debug\AT3.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\AT3\AT3\obj\Debug\AT3.exe
+C:\Users\user\source\repos\AT3\AT3\obj\Debug\AT3.pdb
+C:\Users\user\source\repos\AT3\AT3\obj\Debug\AT3.MainPage.resources
+C:\Users\user\source\repos\AT3\AT3\bin\Debug\LumenWorks.Framework.IO.dll
+C:\Users\user\source\repos\AT3\AT3\bin\Debug\LumenWorks.Framework.IO.pdb
+C:\Users\user\source\repos\AT3\AT3\bin\Debug\LumenWorks.Framework.IO.xml
+C:\Users\user\source\repos\AT3\AT3\obj\Debug\AT3.CSVReader.resources
+C:\Users\user\source\repos\AT3\AT3\obj\Debug\AT3.csproj.CopyComplete
+C:\Users\user\source\repos\AT3\AT3\obj\Debug\Interop.WMPLib.dll
+C:\Users\user\source\repos\AT3\AT3\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\user\source\repos\AT3\AT3\obj\Debug\AT3.csproj.ResolveComReference.cache
+C:\Users\user\source\repos\AT3\AT3\obj\Debug\AT3.MusicPlayer.resources
+C:\Users\user\source\repos\AT3\AT3\bin\Debug\Interop.WMPLib.dll
+C:\Users\user\source\repos\AT3\AT3\bin\Debug\AxInterop.WMPLib.dll
+D:\Diploma in Software Development\Programming 3 - Tuesday\Assessment\AT 3\AT3 - Version 1.1\AT3 - Version 1.1\AT3\bin\Debug\AT3.exe.config
+D:\Diploma in Software Development\Programming 3 - Tuesday\Assessment\AT 3\AT3 - Version 1.1\AT3 - Version 1.1\AT3\bin\Debug\AT3.exe
+D:\Diploma in Software Development\Programming 3 - Tuesday\Assessment\AT 3\AT3 - Version 1.1\AT3 - Version 1.1\AT3\bin\Debug\AT3.pdb
+D:\Diploma in Software Development\Programming 3 - Tuesday\Assessment\AT 3\AT3 - Version 1.1\AT3 - Version 1.1\AT3\bin\Debug\LumenWorks.Framework.IO.dll
+D:\Diploma in Software Development\Programming 3 - Tuesday\Assessment\AT 3\AT3 - Version 1.1\AT3 - Version 1.1\AT3\bin\Debug\LumenWorks.Framework.IO.pdb
+D:\Diploma in Software Development\Programming 3 - Tuesday\Assessment\AT 3\AT3 - Version 1.1\AT3 - Version 1.1\AT3\bin\Debug\LumenWorks.Framework.IO.xml
+D:\Diploma in Software Development\Programming 3 - Tuesday\Assessment\AT 3\AT3 - Version 1.1\AT3 - Version 1.1\AT3\bin\Debug\Interop.WMPLib.dll
+D:\Diploma in Software Development\Programming 3 - Tuesday\Assessment\AT 3\AT3 - Version 1.1\AT3 - Version 1.1\AT3\bin\Debug\AxInterop.WMPLib.dll
+D:\Diploma in Software Development\Programming 3 - Tuesday\Assessment\AT 3\AT3 - Version 1.1\AT3 - Version 1.1\AT3\obj\Debug\AT3.csprojAssemblyReference.cache
+D:\Diploma in Software Development\Programming 3 - Tuesday\Assessment\AT 3\AT3 - Version 1.1\AT3 - Version 1.1\AT3\obj\Debug\Interop.WMPLib.dll
+D:\Diploma in Software Development\Programming 3 - Tuesday\Assessment\AT 3\AT3 - Version 1.1\AT3 - Version 1.1\AT3\obj\Debug\AxInterop.WMPLib.dll
+D:\Diploma in Software Development\Programming 3 - Tuesday\Assessment\AT 3\AT3 - Version 1.1\AT3 - Version 1.1\AT3\obj\Debug\AT3.csproj.ResolveComReference.cache
+D:\Diploma in Software Development\Programming 3 - Tuesday\Assessment\AT 3\AT3 - Version 1.1\AT3 - Version 1.1\AT3\obj\Debug\AT3.ClientForm.resources
+D:\Diploma in Software Development\Programming 3 - Tuesday\Assessment\AT 3\AT3 - Version 1.1\AT3 - Version 1.1\AT3\obj\Debug\AT3.CSVReader.resources
+D:\Diploma in Software Development\Programming 3 - Tuesday\Assessment\AT 3\AT3 - Version 1.1\AT3 - Version 1.1\AT3\obj\Debug\AT3.MainPage.resources
+D:\Diploma in Software Development\Programming 3 - Tuesday\Assessment\AT 3\AT3 - Version 1.1\AT3 - Version 1.1\AT3\obj\Debug\AT3.MusicPlayer.resources
+D:\Diploma in Software Development\Programming 3 - Tuesday\Assessment\AT 3\AT3 - Version 1.1\AT3 - Version 1.1\AT3\obj\Debug\AT3.Properties.Resources.resources
+D:\Diploma in Software Development\Programming 3 - Tuesday\Assessment\AT 3\AT3 - Version 1.1\AT3 - Version 1.1\AT3\obj\Debug\AT3.ServerForm.resources
+D:\Diploma in Software Development\Programming 3 - Tuesday\Assessment\AT 3\AT3 - Version 1.1\AT3 - Version 1.1\AT3\obj\Debug\AT3.csproj.GenerateResource.cache
+D:\Diploma in Software Development\Programming 3 - Tuesday\Assessment\AT 3\AT3 - Version 1.1\AT3 - Version 1.1\AT3\obj\Debug\AT3.csproj.CopyComplete
+D:\Diploma in Software Development\Programming 3 - Tuesday\Assessment\AT 3\AT3 - Version 1.1\AT3 - Version 1.1\AT3\obj\Debug\AT3.exe
+D:\Diploma in Software Development\Programming 3 - Tuesday\Assessment\AT 3\AT3 - Version 1.1\AT3 - Version 1.1\AT3\obj\Debug\AT3.pdb
+D:\Diploma in Software Development\Programming 3 - Tuesday\Assessment\AT 3\AT3 - Version 1.1\AT3 - Version 1.1\AT3\obj\Debug\AT3.csproj.CoreCompileInputs.cache
+D:\Diploma in Software Development\Programming 3 - Tuesday\Assessment\Daniel Hee - P466436 (AT3 - Project)\AT 3\AT3 - Version 1.2\AT3\bin\Debug\AT3.exe.config
+D:\Diploma in Software Development\Programming 3 - Tuesday\Assessment\Daniel Hee - P466436 (AT3 - Project)\AT 3\AT3 - Version 1.2\AT3\bin\Debug\AT3.exe
+D:\Diploma in Software Development\Programming 3 - Tuesday\Assessment\Daniel Hee - P466436 (AT3 - Project)\AT 3\AT3 - Version 1.2\AT3\bin\Debug\AT3.pdb
+D:\Diploma in Software Development\Programming 3 - Tuesday\Assessment\Daniel Hee - P466436 (AT3 - Project)\AT 3\AT3 - Version 1.2\AT3\bin\Debug\LumenWorks.Framework.IO.dll
+D:\Diploma in Software Development\Programming 3 - Tuesday\Assessment\Daniel Hee - P466436 (AT3 - Project)\AT 3\AT3 - Version 1.2\AT3\bin\Debug\LumenWorks.Framework.IO.pdb
+D:\Diploma in Software Development\Programming 3 - Tuesday\Assessment\Daniel Hee - P466436 (AT3 - Project)\AT 3\AT3 - Version 1.2\AT3\bin\Debug\LumenWorks.Framework.IO.xml
+D:\Diploma in Software Development\Programming 3 - Tuesday\Assessment\Daniel Hee - P466436 (AT3 - Project)\AT 3\AT3 - Version 1.2\AT3\bin\Debug\Interop.WMPLib.dll
+D:\Diploma in Software Development\Programming 3 - Tuesday\Assessment\Daniel Hee - P466436 (AT3 - Project)\AT 3\AT3 - Version 1.2\AT3\bin\Debug\AxInterop.WMPLib.dll
+D:\Diploma in Software Development\Programming 3 - Tuesday\Assessment\Daniel Hee - P466436 (AT3 - Project)\AT 3\AT3 - Version 1.2\AT3\obj\Debug\AT3.csprojAssemblyReference.cache
+D:\Diploma in Software Development\Programming 3 - Tuesday\Assessment\Daniel Hee - P466436 (AT3 - Project)\AT 3\AT3 - Version 1.2\AT3\obj\Debug\Interop.WMPLib.dll
+D:\Diploma in Software Development\Programming 3 - Tuesday\Assessment\Daniel Hee - P466436 (AT3 - Project)\AT 3\AT3 - Version 1.2\AT3\obj\Debug\AxInterop.WMPLib.dll
+D:\Diploma in Software Development\Programming 3 - Tuesday\Assessment\Daniel Hee - P466436 (AT3 - Project)\AT 3\AT3 - Version 1.2\AT3\obj\Debug\AT3.csproj.ResolveComReference.cache
+D:\Diploma in Software Development\Programming 3 - Tuesday\Assessment\Daniel Hee - P466436 (AT3 - Project)\AT 3\AT3 - Version 1.2\AT3\obj\Debug\AT3.ClientForm.resources
+D:\Diploma in Software Development\Programming 3 - Tuesday\Assessment\Daniel Hee - P466436 (AT3 - Project)\AT 3\AT3 - Version 1.2\AT3\obj\Debug\AT3.CSVReader.resources
+D:\Diploma in Software Development\Programming 3 - Tuesday\Assessment\Daniel Hee - P466436 (AT3 - Project)\AT 3\AT3 - Version 1.2\AT3\obj\Debug\AT3.MainPage.resources
+D:\Diploma in Software Development\Programming 3 - Tuesday\Assessment\Daniel Hee - P466436 (AT3 - Project)\AT 3\AT3 - Version 1.2\AT3\obj\Debug\AT3.MusicPlayer.resources
+D:\Diploma in Software Development\Programming 3 - Tuesday\Assessment\Daniel Hee - P466436 (AT3 - Project)\AT 3\AT3 - Version 1.2\AT3\obj\Debug\AT3.Properties.Resources.resources
+D:\Diploma in Software Development\Programming 3 - Tuesday\Assessment\Daniel Hee - P466436 (AT3 - Project)\AT 3\AT3 - Version 1.2\AT3\obj\Debug\AT3.ServerForm.resources
+D:\Diploma in Software Development\Programming 3 - Tuesday\Assessment\Daniel Hee - P466436 (AT3 - Project)\AT 3\AT3 - Version 1.2\AT3\obj\Debug\AT3.csproj.GenerateResource.cache
+D:\Diploma in Software Development\Programming 3 - Tuesday\Assessment\Daniel Hee - P466436 (AT3 - Project)\AT 3\AT3 - Version 1.2\AT3\obj\Debug\AT3.csproj.CoreCompileInputs.cache
+D:\Diploma in Software Development\Programming 3 - Tuesday\Assessment\Daniel Hee - P466436 (AT3 - Project)\AT 3\AT3 - Version 1.2\AT3\obj\Debug\AT3.csproj.CopyComplete
+D:\Diploma in Software Development\Programming 3 - Tuesday\Assessment\Daniel Hee - P466436 (AT3 - Project)\AT 3\AT3 - Version 1.2\AT3\obj\Debug\AT3.exe
+D:\Diploma in Software Development\Programming 3 - Tuesday\Assessment\Daniel Hee - P466436 (AT3 - Project)\AT 3\AT3 - Version 1.2\AT3\obj\Debug\AT3.pdb
